@@ -2,10 +2,6 @@
 
 An interactive Power BI dashboard designed to explore employee attrition patterns and satisfaction levels using the IBM HR Analytics dataset.
 
-## Overview
-
-This dashboard provides data-driven insights into what drives employees to leave an organization, as well as what influences their overall satisfaction. It serves as a valuable tool for HR departments aiming to reduce turnover and enhance employee engagement.
-
 ## Tools Used
 
 - Power BI
